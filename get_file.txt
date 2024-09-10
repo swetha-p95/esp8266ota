@@ -1,2 +1,1 @@
 This is to test HTTP GET request.
-From GitHub repo to esp8266.
